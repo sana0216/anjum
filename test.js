@@ -6,3 +6,4 @@ var myCar = {
 };
 
 console.log(myCar.name);
+console.log(myCar["color"]);
